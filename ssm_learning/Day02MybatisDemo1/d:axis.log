@@ -820,3 +820,47 @@
 2020-06-21 16:27:15,278 802    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@36b4fe2a]
 2020-06-21 16:27:15,279 803    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@36b4fe2a]
 2020-06-21 16:27:15,279 803    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 917831210 to pool.
+2020-06-21 16:33:04,774 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-06-21 16:33:04,777 3      [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2020-06-21 16:33:04,778 4      [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2020-06-21 16:33:04,778 4      [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2020-06-21 16:33:04,779 5      [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-06-21 16:33:04,779 5      [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-06-21 16:33:04,780 6      [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/kary/code/ssm_learning/ssm_learning/Day02MybatisDemo1/target/classes/com/kearmy/domain
+2020-06-21 16:33:04,780 6      [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/kary/code/ssm_learning/ssm_learning/Day02MybatisDemo1/target/classes/com/kearmy/domain
+2020-06-21 16:33:04,830 56     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2020-06-21 16:33:04,830 56     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2020-06-21 16:33:04,831 57     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/Users/kary/code/ssm_learning/ssm_learning/Day02MybatisDemo1/target/classes/com/kearmy/domain
+2020-06-21 16:33:04,831 57     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/kary/code/ssm_learning/ssm_learning/Day02MybatisDemo1/target/classes/com/kearmy/domain/QueryVo.class
+2020-06-21 16:33:04,832 58     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/kary/code/ssm_learning/ssm_learning/Day02MybatisDemo1/target/classes/com/kearmy/domain/QueryVo.class
+2020-06-21 16:33:04,832 58     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 
+2020-06-21 16:33:04,833 59     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/kary/code/ssm_learning/ssm_learning/Day02MybatisDemo1/target/classes/com/kearmy/domain/User.class
+2020-06-21 16:33:04,833 59     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/kary/code/ssm_learning/ssm_learning/Day02MybatisDemo1/target/classes/com/kearmy/domain/User.class
+2020-06-21 16:33:04,834 60     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2020-06-21 16:33:04,834 60     [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.kearmy.domain.QueryVo matches criteria [is assignable to Object]
+2020-06-21 16:33:04,835 61     [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.kearmy.domain.User matches criteria [is assignable to Object]
+2020-06-21 16:33:04,876 102    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-21 16:33:04,877 103    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-21 16:33:04,877 103    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-21 16:33:04,877 103    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-21 16:33:04,879 105    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/kary/code/ssm_learning/ssm_learning/Day02MybatisDemo1/target/classes/com/kearmy/dao
+2020-06-21 16:33:04,879 105    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/kary/code/ssm_learning/ssm_learning/Day02MybatisDemo1/target/classes/com/kearmy/dao
+2020-06-21 16:33:04,880 106    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.class
+2020-06-21 16:33:04,880 106    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.xml
+2020-06-21 16:33:04,880 106    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/Users/kary/code/ssm_learning/ssm_learning/Day02MybatisDemo1/target/classes/com/kearmy/dao
+2020-06-21 16:33:04,880 106    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/kary/code/ssm_learning/ssm_learning/Day02MybatisDemo1/target/classes/com/kearmy/dao/IUserDao.class
+2020-06-21 16:33:04,880 106    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/kary/code/ssm_learning/ssm_learning/Day02MybatisDemo1/target/classes/com/kearmy/dao/IUserDao.class
+2020-06-21 16:33:04,881 107    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1    findAll ()Ljava/util/List; 	Signature ,()Ljava/util/List<Lcom/kearmy/domain/User;>; saveUser (Lcom/kearmy/domain/User;)V 
+2020-06-21 16:33:04,881 107    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/kary/code/ssm_learning/ssm_learning/Day02MybatisDemo1/target/classes/com/kearmy/dao/IUserDao.xml
+2020-06-21 16:33:04,881 107    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/kary/code/ssm_learning/ssm_learning/Day02MybatisDemo1/target/classes/com/kearmy/dao/IUserDao.xml
+2020-06-21 16:33:04,882 108    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2020-06-21 16:33:04,882 108    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.kearmy.dao.IUserDao matches criteria [is assignable to Object]
+2020-06-21 16:33:04,978 204    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2020-06-21 16:33:05,501 727    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 838449246.
+2020-06-21 16:33:05,501 727    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@31f9b85e]
+2020-06-21 16:33:05,506 732    [           main] DEBUG .kearmy.dao.IUserDao.findTotal  - ==>  Preparing: select count(id) from user; 
+2020-06-21 16:33:05,543 769    [           main] DEBUG .kearmy.dao.IUserDao.findTotal  - ==> Parameters: 
+2020-06-21 16:33:05,580 806    [           main] DEBUG .kearmy.dao.IUserDao.findTotal  - <==      Total: 1
+2020-06-21 16:33:05,583 809    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@31f9b85e]
+2020-06-21 16:33:05,584 810    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@31f9b85e]
+2020-06-21 16:33:05,584 810    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 838449246 to pool.
