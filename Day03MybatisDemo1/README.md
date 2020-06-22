@@ -1,1 +1,1 @@
-# mybatis第3天学习demo11. 连接池2. 事务
+# mybatis第3天学习demo11. 连接池    SqlMapConfig.xml中对标签dataSource    ```<dataSource type="POOLED"></dataSource>```    选择连接池类型：    1. POOLED      2. UNPOOLED    3. JNDI2. 事务    1. 什么是事务？    2. 具有四大特性：ACID    3. 不考虑隔离性会产生的3个问题    4. 解决方法：四种隔离级别        ```sqlSessionFactory.openSession(true);```中添加参数```true```表示默认提交事务3. 动态sql语句
