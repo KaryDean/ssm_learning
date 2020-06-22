@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e73e8f9-2eb2-4232-b601-ad5faa200ba2" name="Default Changelist" comment="" />
+    <list default="true" id="1e73e8f9-2eb2-4232-b601-ad5faa200ba2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Day02MybatisDemo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day02MybatisDemo1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592792062591</updated>
-      <workItem from="1592792063789" duration="155000" />
+      <workItem from="1592792063789" duration="200000" />
     </task>
     <task id="LOCAL-00001" summary="初始化版本">
       <created>1592792083788</created>
@@ -108,7 +111,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155000" />
+    <option name="totallyTimeSpent" value="200000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />

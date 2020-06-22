@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="348d1b82-815a-48a6-b60e-b896fbe8e26a" name="Default Changelist" comment="" />
+    <list default="true" id="348d1b82-815a-48a6-b60e-b896fbe8e26a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03MybatisDemo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03MybatisDemo1/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +72,13 @@
         <option value="$PROJECT_DIR$/src/main/resources/com/kearmy/dao/IUserDao.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -345,7 +355,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592709771930</updated>
       <workItem from="1592709773156" duration="3364000" />
-      <workItem from="1592792207768" duration="11000" />
+      <workItem from="1592792207768" duration="56000" />
     </task>
     <task id="LOCAL-00001" summary="resultMap、typeAlises、package">
       <created>1592728113319</created>
@@ -361,7 +371,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592728403891</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="resultMap、typeAlises、package">
+      <created>1592792236138</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592792236138</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -397,7 +414,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3375000" />
+    <option name="totallyTimeSpent" value="3420000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -437,6 +454,9 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
     <MESSAGE value="resultMap、typeAlises、package" />
     <option name="LAST_COMMIT_MESSAGE" value="resultMap、typeAlises、package" />
   </component>
