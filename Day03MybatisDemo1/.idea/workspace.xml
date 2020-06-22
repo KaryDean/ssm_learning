@@ -2,26 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e73e8f9-2eb2-4232-b601-ad5faa200ba2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Day03MybatisDemo2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day03MybatisDemo2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day03MybatisDemo2/.idea/dictionaries/kearmy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day03MybatisDemo2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day03MybatisDemo2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day03MybatisDemo2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day03MybatisDemo2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day03MybatisDemo2/Day03MybatisDemo2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day03MybatisDemo2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day03MybatisDemo2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day03MybatisDemo2/src/main/java/com/kearmy/dao/IUserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day03MybatisDemo2/src/main/java/com/kearmy/domain/QueryVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day03MybatisDemo2/src/main/java/com/kearmy/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day03MybatisDemo2/src/main/resources/SqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day03MybatisDemo2/src/main/resources/com/kearmy/dao/IUserDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day03MybatisDemo2/src/main/resources/jdbcConfig.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day03MybatisDemo2/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day03MybatisDemo2/src/test/java/com/kearmy/mybatis/TestUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day02MybatisDemo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day02MybatisDemo1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03MybatisDemo2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03MybatisDemo2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03MybatisDemo2/src/main/java/com/kearmy/dao/IUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03MybatisDemo2/src/main/java/com/kearmy/dao/IUserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03MybatisDemo2/src/main/java/com/kearmy/domain/QueryVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03MybatisDemo2/src/main/resources/com/kearmy/dao/IUserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03MybatisDemo2/src/main/resources/com/kearmy/dao/IUserDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day03MybatisDemo2/src/test/java/com/kearmy/mybatis/TestUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03MybatisDemo2/src/test/java/com/kearmy/mybatis/TestUser.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,7 +45,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
+            <state relative-caret-position="150">
               <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="34" />
             </state>
           </provider>
@@ -187,7 +173,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592812142145" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592812333902" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -308,7 +294,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592792062591</updated>
-      <workItem from="1592792063789" duration="5831000" />
+      <workItem from="1592792063789" duration="6037000" />
     </task>
     <task id="LOCAL-00001" summary="初始化版本">
       <created>1592792083788</created>
@@ -388,11 +374,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5831000" />
+    <option name="totallyTimeSpent" value="6037000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -409,7 +394,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32939634" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32939634" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -539,7 +524,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
+        <state relative-caret-position="150">
           <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="34" />
         </state>
       </provider>
