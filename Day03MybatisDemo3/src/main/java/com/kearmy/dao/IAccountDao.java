@@ -1,1 +1,0 @@
-package com.kearmy.dao;import com.kearmy.domain.Account;import com.kearmy.domain.AccountUser;import java.util.List;public interface IAccountDao {    /**     * 查询所有账户     * @return     */    List<Account> findAll();    /**     * 通过子类的方式实现联合查询     * @return     */    List<AccountUser> findAllInformation();}

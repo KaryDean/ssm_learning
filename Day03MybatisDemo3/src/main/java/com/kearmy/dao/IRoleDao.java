@@ -1,0 +1,1 @@
+package com.kearmy.dao;import com.kearmy.domain.Role;import java.util.List;public interface IRoleDao {    /**     * 查询所有账户     * @return     */    List<Role> findAll();}
