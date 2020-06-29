@@ -1,1 +1,1 @@
-# 学习mybatis第四天 注解开发```$java@Select @Insert@Update@Delete```注解开发方式也就是使用上面四种注解开发时，不能与配置文件方式同时使用，否则报错
+# 学习mybatis第四天 1. column和property不匹配，注解开发映射2. 多对一注解开发3. 一对多注解开发4. 注解开启二级缓存

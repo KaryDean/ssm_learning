@@ -1,0 +1,1 @@
+# 学习mybatis第四天 注解开发```$java@Select @Insert@Update@Delete```注解开发方式也就是使用上面四种注解开发时，不能与配置文件方式同时使用，否则报错
