@@ -2,21 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="461660dd-efd7-4e1c-a013-a0aede9c0cf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Day03MybatisDemo3/src/main/java/com/kearmy/dao/IRoleDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day03MybatisDemo3/src/main/java/com/kearmy/domain/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day03MybatisDemo3/src/main/resources/com/kearmy/dao/IRoleDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day03MybatisDemo3/src/test/java/com/kearmy/mybatis/TestRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03Mybatis_lazy/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03Mybatis_lazy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03Mybatis_lazy/.idea/dictionaries/kearmy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03Mybatis_lazy/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03Mybatis_lazy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03Mybatis_lazy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03Mybatis_lazy/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03Mybatis_lazy/Day03Mybatis_lazy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03Mybatis_lazy/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03Mybatis_lazy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03Mybatis_lazy/src/main/java/com/kearmy/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03Mybatis_lazy/src/main/java/com/kearmy/dao/IUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03Mybatis_lazy/src/main/java/com/kearmy/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03Mybatis_lazy/src/main/java/com/kearmy/domain/AccountUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03Mybatis_lazy/src/main/java/com/kearmy/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03Mybatis_lazy/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03Mybatis_lazy/src/main/resources/com/kearmy/dao/IAccountDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03Mybatis_lazy/src/main/resources/com/kearmy/dao/IUserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03Mybatis_lazy/src/main/resources/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03Mybatis_lazy/src/main/resources/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Day03MybatisDemo3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03MybatisDemo3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day03MybatisDemo3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03MybatisDemo3/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day03MybatisDemo3/src/main/java/com/kearmy/dao/IAccountDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day03MybatisDemo3/src/main/java/com/kearmy/domain/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day03MybatisDemo3/src/main/java/com/kearmy/domain/AccountUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day03MybatisDemo3/src/main/java/com/kearmy/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03MybatisDemo3/src/main/java/com/kearmy/domain/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day03MybatisDemo3/src/main/resources/com/kearmy/dao/IAccountDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day03MybatisDemo3/src/main/resources/com/kearmy/dao/IUserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03MybatisDemo3/src/main/resources/com/kearmy/dao/IUserDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day03MybatisDemo3/src/test/java/com/kearmy/mybatis/TestAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day03MybatisDemo3/src/test/java/com/kearmy/mybatis/TestUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day03MybatisDemo3/src/test/java/com/kearmy/mybatis/TestUser.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -54,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/com/kearmy/dao/IUserDao.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+            <state relative-caret-position="225">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -67,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/com/kearmy/dao/IAccountDao.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -81,11 +88,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="19" selection-start-line="10" selection-start-column="4" selection-end-line="33" selection-end-column="19" />
+            <state relative-caret-position="150">
+              <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="33" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -115,7 +122,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/kearmy/domain/Account.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -204,14 +211,20 @@
               <item name="Day03MybatisDemo2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Day03MybatisDemo2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day03MybatisDemo2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day03MybatisDemo2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Day03MybatisDemo2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Day03MybatisDemo2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -219,7 +232,7 @@
               <item name="Day03MybatisDemo2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Day03MybatisDemo2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="kearmy" type="462c0819:PsiDirectoryNode" />
@@ -228,55 +241,11 @@
               <item name="Day03MybatisDemo2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Day03MybatisDemo2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="kearmy" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day03MybatisDemo2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day03MybatisDemo2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="kearmy" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day03MybatisDemo2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day03MybatisDemo2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day03MybatisDemo2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day03MybatisDemo2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day03MybatisDemo2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day03MybatisDemo2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="kearmy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Day03MybatisDemo2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day03MybatisDemo2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="kearmy" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -401,7 +370,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592812058247</updated>
       <workItem from="1592812059531" duration="4476000" />
-      <workItem from="1592961298805" duration="667000" />
+      <workItem from="1592961298805" duration="1313000" />
     </task>
     <task id="LOCAL-00001" summary="初始化版本">
       <created>1592812163040</created>
@@ -460,7 +429,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5143000" />
+    <option name="totallyTimeSpent" value="5789000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -512,16 +481,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kearmy/domain/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -538,13 +497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
           <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="19" selection-start-line="10" selection-start-column="4" selection-end-line="33" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -578,21 +530,38 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kearmy/domain/Account.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/com/kearmy/dao/IAccountDao.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/com/kearmy/dao/IUserDao.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        <state relative-caret-position="225">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="33" selection-end-column="19" />
         </state>
       </provider>
     </entry>
